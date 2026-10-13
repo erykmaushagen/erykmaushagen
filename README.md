@@ -1,4 +1,3 @@
-# Hi, I'm Eryk
 
 I enjoy working on hard problems, especially the ones that are a bit abstract
 and don't show their structure right away. I'm kind of addicted to the moment
