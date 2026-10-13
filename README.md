@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eryk
 
-<!--
-**erykmaushagen/erykmaushagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working on hard problems, especially the ones that are a bit abstract
+and don't show their structure right away. I'm kind of addicted to the moment
+when something confusing slowly turns into something clear.
 
-Here are some ideas to get you started:
+I think simplicity is one of the most underrated skills. Finding the simple
+version of something usually takes the most thinking, and when it works, it
+tends to have a certain elegance. That's what I aim for, both in what I build
+and in how I explain things. Explaining something is also how I check whether
+I've actually understood it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm preparing for hackathons, studying new topics and working through LeetCode, mostly to
+get better at how I think through problems.
